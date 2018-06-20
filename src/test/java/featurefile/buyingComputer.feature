@@ -1,6 +1,6 @@
 Feature: buy a Computer
   As a Customer i want to buy a Computer so i select and navigate to loginpage
-
+@smoke
   Scenario:
     Given As i am on HomePage
     When i select Computer
